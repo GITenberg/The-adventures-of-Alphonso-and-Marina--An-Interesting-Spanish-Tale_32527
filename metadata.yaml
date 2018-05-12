@@ -1,0 +1,35 @@
+_repo: The-adventures-of-Alphonso-and-Marina--An-Interesting-Spanish-Tale_32527
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Florian
+    aliases:
+    - De Florian, Jean-Pierre Claris
+    - Florian, Jean-Pierre Claris de
+    - Florian, J.-P. Claris de (Jean-Pierre Claris de)
+    - Claris de Florian, Jean-Pierre
+    birthdate: 1755
+    deathdate: 1794
+    gutenberg_agent_id: '36033'
+    url: http://www.gutenberg.org/2009/agents/36033
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Pierre_Claris_de_Florian
+description: 'Source: The New-York Weekly Magazine'
+gutenberg_issued: '2010-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Adventure stories'
+- !lcc 'PQ'
+- !lcsh 'Spain -- Fiction'
+- !lcsh 'Short stories'
+title: 'The adventures of Alphonso and Marina: An Interesting Spanish Tale'
+url: http://www.gutenberg.org/ebooks/32527
